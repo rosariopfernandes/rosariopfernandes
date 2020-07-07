@@ -1,5 +1,5 @@
 <h1 align="center">Rosário Pereira Fernandes</h1>
-<h3 align="center">Associate Android Developer</h3>
+<h3 align="center">Associate App Developer</h3>
 <p align="center">
     <a href="https://medium.com/@rosariopfernandes">Medium</a> <b>|</b>
     <a href="https://rosariopfernandes.github.io">Portfolio</a> <b>|</b>
