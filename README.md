@@ -18,5 +18,7 @@ and [Firebase Android Snippets](https://github.com/firebase/snippets-android).
 
 I also write technical blog posts on [Medium](https://medium.com/@rosariopfernandes). My latest blog post
  was: [Loading Images from Cloud Storage on Android using Coil](https://medium.com/better-programming/loading-images-from-cloud-storage-on-a-kotlin-android-app-d1574a059e04).
+ 
+Say hi on Twitter: [@_rpfernandes](_rpfernandes). I speak English and Portuguese. 🙂
 
 Pinned below are the Open Source projects that I started.
