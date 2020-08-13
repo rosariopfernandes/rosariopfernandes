@@ -1,6 +1,6 @@
-<h1 align="center">👋😃 Hello there!</h1>
+<h1>👋😃 Hello there!</h1>
 
-My name is Rosário and I'm an [Associate Android Developer (Kotlin)](https://www.credential.net/9a5bf0e6-f5a9-4552-9b9a-e84c7b821c09), currently working on the [KidzKare Android app](https://play.google.com/store/apps/details?id=mz.co.kidzkare.vaccines).
+I'm Rosário, an [Associate Android Developer (Kotlin)](https://www.credential.net/9a5bf0e6-f5a9-4552-9b9a-e84c7b821c09) currently building the [KidzKare Android app](https://play.google.com/store/apps/details?id=mz.co.kidzkare.vaccines) and working at [MozDevz](https://github.com/mozdevz).
 
 I'm skilled in  [Android](https://github.com/topics/android),
 [Kotlin](https://github.com/topics/kotlin),
@@ -17,8 +17,8 @@ You'll often find me contributing to the projects:
 and [Firebase Android Snippets](https://github.com/firebase/snippets-android).
 
 I also write technical blog posts on [Medium](https://medium.com/@rosariopfernandes). My latest blog post
- was: [Loading Images from Cloud Storage on Android using Coil](https://medium.com/better-programming/loading-images-from-cloud-storage-on-a-kotlin-android-app-d1574a059e04).
- 
-Say hi on Twitter: [@_rpfernandes](_rpfernandes). I speak English and Portuguese. 🙂
+ was: [Using Firebase In-App-Messaging on an Android App](https://proandroiddev.com/using-firebase-in-app-messaging-on-an-android-app-f2802757f00b).
+
+Say hi on Twitter: [@_rpfernandes](_rpfernandes). I speak both English and Portuguese. 🙂
 
 Pinned below are the Open Source projects that I started.
