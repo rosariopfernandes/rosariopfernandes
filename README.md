@@ -1,6 +1,6 @@
 ## :wave::smiley: Yellow!
 
-I'm Rosário, a [Google Developer Expert for Firebase](#TODO_Add_link) and [Google Certified Associate Android Developer (Kotlin)](https://www.credential.net/9a5bf0e6-f5a9-4552-9b9a-e84c7b821c09). I'm currently building the [KidzKare Android app](https://play.google.com/store/apps/details?id=mz.co.kidzkare.vaccines) and working at [MozDevz](https://github.com/mozdevz).
+I'm Rosário, a [Google Developer Expert for Firebase](https://developers.google.com/community/experts/directory/profile/profile-ros_C3_A1rio_pereira_fernandes) and [Google Certified Associate Android Developer (Kotlin)](https://www.credential.net/9a5bf0e6-f5a9-4552-9b9a-e84c7b821c09). I'm currently building the [KidzKare Android app](https://play.google.com/store/apps/details?id=mz.co.kidzkare.vaccines) and working at [MozDevz](https://github.com/mozdevz).
 
 About me:
 - :computer: I'm skilled in Firebase, Android, Kotlin, Java, JavaScript, MySQL and a few more technologies.
