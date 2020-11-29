@@ -8,9 +8,8 @@ About me:
 [Firebase Android SDK](https://github.com/firebase/firebase-android-sdk),
 [Firebase Quickstart Samples for Android](https://github.com/firebase/quickstart-android)
 and [Firebase Android Snippets](https://github.com/firebase/snippets-android).
-- :memo: I write technical blog posts on [Medium](https://medium.com/@rosariopfernandes). My latest blog post
- was: [Using Firebase In-App-Messaging on an Android App](https://proandroiddev.com/using-firebase-in-app-messaging-on-an-android-app-f2802757f00b).
-- :speaking_head: I also share my knowledge and experience through Public Speaking. Catch my next online talk at Droidcon EMEA 2020: [Firebase and Kotlin: Extensions, Coroutines and Flows](https://www.online.droidcon.com/emea-speaker/ros%C3%A1rio-pereira-fernandes).
-- :video_game: On my free time I enjoy playing videogames and watching Movies/TV Shows.
+- :memo: I write technical blog posts on [Medium](https://medium.com/@rosariopfernandes).
+- :speaking_head: I also share my knowledge and experience through Public Speaking. You can find a list of all my presentations [here](https://github.com/rosariopfernandes/rosariopfernandes/blob/main/presentations.md).
+- :video_game: On my free time I enjoy playing videogames and watching Movies/TV Shows (specially the ones based on comicbooks).
 
 Say hi on Twitter: [@_rpfernandes](_rpfernandes). I speak both English and Portuguese. 🙂
