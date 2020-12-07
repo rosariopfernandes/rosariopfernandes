@@ -14,6 +14,16 @@ The talk description goes here
 **Invited by:** Event name
 -->
 
+## :portugal: Firebase KTX: Porquê, O quê e Como?
+
+Kotlin é agora a linguagem recomendada para o desenvovimento de apps Android. Apesar desta linguagem ter interroperabilidade com a linguagem Java, a equipe do Firebase lançou a biblioteca Firebase KTX que foi desenhada especificamente para ser usada em Kotlin.
+
+Rosário participou da criação destas bibliotecas e irá explicar porquê elas foram criadas e como utilizá-las para ter código Kotlin mais idiomático e legível.
+
+Você sairá da sessão com conhecimento de como utilizar o Firebase KTX em apps Android, como contribuir e como enviar feedback.
+
+**Accepted at:** [Android Training Program Portugal 2020](https://events.withgoogle.com/atp2020/)
+
 ## A/B Testing Android Apps with Firebase
 
 There are a lot of decisions developers need to make when developing an app, such as: selecting the best color for a button, how often an ad will be shown or how fast the protagonist of our game should run. While these might seem like small changes, they can make a huge influence on your app’s success when put together.
