@@ -19,7 +19,7 @@ The talk description goes here
 An Exception's Stacktrace is one of the best ways to understand why an app crashed and to find a fix for it. But when the app crashes in a user's device, getting this stacktrace might require more time and effort, since the user might need to take some extra steps, such as enabling debug mode to provide us with the trace.
 But what if we could improve our app quality in less time with less effort?
 
-During this presentation, Rosário will be talking about the tools and services that Firebase provides for developers to better release and monitor mobile apps.
+During this presentation, Rosário will be talking about the tools and services that Firebase provides for developers to improve the release and monitoring processes of their apps.
 
 Expect to come out of the session with:
 - an overview on tools such as Crashlytics, Test Lab, App Distribution & Performance Monitoring.
