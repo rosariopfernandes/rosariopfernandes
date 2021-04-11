@@ -9,6 +9,6 @@ If you want to know more about me, I:
 [Firebase Quickstart Samples for Android](https://github.com/firebase/quickstart-android).
 - :memo: write blog posts on [Medium](https://medium.com/@rosariopfernandes).
 - :speaking_head: like to share knowledge and experience through Public Speaking (see [a list of all my presentations](https://github.com/rosariopfernandes/rosariopfernandes/blob/main/presentations.md)).
-- :video_game: enjoy playing videogames and watching Movies/TV Shows (specially comicbook-based ones) on my free time.
+- :video_game: play videogames and watch Movies & TV Shows on my free time.
 
 Say hi on Twitter: [@_rpfernandes](_rpfernandes). I speak both English and Portuguese. 🙂
