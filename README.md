@@ -11,4 +11,4 @@ If you want to know more about me, I:
 - :speaking_head: like to share knowledge and experience through Public Speaking (see [a list of all my presentations](https://github.com/rosariopfernandes/rosariopfernandes/blob/main/presentations.md)).
 - :video_game: play videogames and watch movies & TV shows on my free time.
 
-Feel free to say hi on Twitter: [@_rpfernandes](_rpfernandes). I speak both English and Portuguese. 🙂
+Feel free to say hi on Twitter: [@_rpfernandes](https://twitter.com/_rpfernandes). I speak both English and Portuguese. 🙂
