@@ -14,19 +14,19 @@ The talk description goes here
 **Invited by:** Event name
 -->
 
-## App crashing in production? Firebase for the rescue!
+## Fix app crashes and slow response times with Firebase
 
-An Exception's Stacktrace is one of the best ways to understand why an app crashed and to find a fix for it. But when the app crashes in a user's device, getting this stacktrace might require more time and effort, since the user might need to take some extra steps, such as enabling debug mode to provide us with the trace.
-But what if we could improve our app quality in less time with less effort?
+Once we deploy an android app to production, its common to see our users complain about crashes, device incompatibility issues and/or slow response times. Tracking down each and all of these problems can be time-consuming and require a lot of effort from our side. But what if we could automate part of this monitoring process?
 
-During this presentation, Rosário will be talking about the tools and services that Firebase provides for developers to improve the release and monitoring processes of their apps.
+During this presentation, Rosário will be talking about the Firebase tools and services that can help developers monitor their android app releases.
 
 Expect to come out of the session with:
-- an overview on tools such as Crashlytics, Test Lab, App Distribution & Performance Monitoring.
+- an overview on tools such as Crashlytics, Test Lab, Performance Monitoring & App Distribution.
 - (hopefully) a crash-free mobile app.
 
 
 **Invited by:** DSC Nekede
+**Submitted to:** 360|AnDev 2021
 
 ## :portugal: Firebase KTX: Porquê, O quê e Como?
 
