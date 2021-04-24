@@ -14,6 +14,21 @@ The talk description goes here
 **Invited by:** Event name
 -->
 
+## Fix app crashes and slow response times with Firebase
+
+Once we deploy an android app to production, its common to see our users complain about crashes, device incompatibility issues and/or slow response times. Tracking down each and all of these problems can be time-consuming and require a lot of effort from our side. But what if we could automate part of this monitoring process?
+
+During this presentation, Rosário will be talking about the Firebase tools and services that can help developers monitor their android app releases.
+
+Expect to come out of the session with:
+- an overview on tools such as Crashlytics, Test Lab, Performance Monitoring & App Distribution.
+- (hopefully) a crash-free mobile app.
+
+
+**Invited by:** DSC Nekede
+
+**Submitted to:** 360|AnDev 2021
+
 ## :portugal: Firebase KTX: Porquê, O quê e Como?
 
 Kotlin é agora a linguagem recomendada para o desenvovimento de apps Android. Apesar desta linguagem ter interroperabilidade com a linguagem Java, a equipe do Firebase lançou a biblioteca Firebase KTX que foi desenhada especificamente para ser usada em Kotlin.
