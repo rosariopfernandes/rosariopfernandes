@@ -18,17 +18,17 @@ The talk description goes here
 
 **Co-Speaker:** [Igor L. Sambo](https://github.com/LSambo02)
 
-Building an app can be a complex task: besides coding, you'll also need a backend infrastructure to hold all of your user data and server-side logic. The task gets even harder if your app needs to be delivered on a tight shedule or when you simply don't have much time to spend on it.
+Building an app can be a complex task: besides coding, you'll also need a backend infrastructure to hold all of your user data and server-side logic. The task gets even harder if your app needs to be delivered on a tight schedule or when you simply don't have much time to spend on it.
 But nowadays with backendless tools such as Firebase and cross-platform frameworks like Flutter, the app-building process can be much faster!
 
-In this session, the speakers will show you how to create a Food Recipes app in 40 min and build it natively on Android, iOS and the Web.
+In this session, the speakers will show you how to create a Food Recipes app in 30 min and build it natively on Android, iOS and the Web.
 
 Expect to come out of the session with:
 - An overview on how to get started with Flutter.
 - An overview of Firebase Auth, Cloud Firestore, Cloud Storage and Firebase Hosting.
 - (Hopefully) a good-looking Food Recipes app.
 
-**Submitted to:** _______________
+**Submitted to:** Droidcon Online
 
 ## Fix app crashes and slow response times with Firebase
 
