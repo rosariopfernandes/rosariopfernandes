@@ -28,7 +28,7 @@ Expect to come out of the session with:
 - An overview of Firebase Auth, Cloud Firestore, Cloud Storage and Firebase Hosting.
 - (Hopefully) a good-looking Food Recipes app.
 
-**Submitted to:** Droidcon Online
+**Submitted to:** Droidcon Online Webinar Series 2021
 
 ## Fix app crashes and slow response times with Firebase
 
