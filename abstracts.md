@@ -43,7 +43,7 @@ Expect to come out of the session with:
 
 **Invited by:** DSC Nekede
 
-**Submitted to:** 360|AnDev 2021
+**Accepted at:** 360|AnDev 2021
 
 ## :portugal: Firebase KTX: Porquê, O quê e Como?
 
